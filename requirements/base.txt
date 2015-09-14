@@ -1,0 +1,16 @@
+# Bleeding edge Django
+django==1.8.4
+
+# Configuration
+django-environ==0.3.0
+django-secure==1.0.1
+whitenoise==2.0.3
+
+# For the persistence stores
+psycopg2==2.6.1
+
+# Time zones support
+pytz==2015.4
+
+# Puput
+puput==0.1.1
