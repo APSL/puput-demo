@@ -13,4 +13,4 @@ psycopg2==2.6.1
 pytz==2015.4
 
 # Puput
-puput==0.1.1
+puput==0.2
